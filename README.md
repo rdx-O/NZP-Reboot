@@ -1,4 +1,18 @@
+\[ En | [Ger](README.Ger.md) \]
+
 # NZ:P Reboot
+
+<h1 align="center">
+    <a href="https://github.com/nikita36078/J2ME-Loader" target="_blank">
+        <img height="45%" width="40%" src="ic_launcher.png"><br>
+</h1>
+
+[![Discord](https://img.shields.io/badge/Discord-%20NZ:P-7289da.svg?logo=discord)](https://discord.gg/Ag4rcpz)
+[![Github Language](https://img.shields.io/badge/Written_in-C-white?style.svg)](Written-in.png)
+[![GitHub Issues](https://img.shields.io/github/issues/thyjukki/NZP-Reboot.svg)](https://github.com/thyjukki/NZP-Reboot/issues)
+[![GitHub stars](https://img.shields.io/github/stars/thyjukki/NZP-Reboot.svg)](https://github.com/thyjukki/NZP-Reboot/stargazers)
+[![Github releases](https://img.shields.io/badge/Latest_release-1.7.0-%4169E1.svg)](https://github.com/nikita36078/J2ME-Loader/releases/tag/1.7.0)
+
 A faithful recreation of Call of Duty Zombies for the PC and PlayStation Portable. Powered by Quake and coffee.
 
 <hr>
